@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "7e4a85c5ccd2e0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "67163edf2bbe57e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81cdc2f144b7f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69f07b593e4d8ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4ce816521bedde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dfd28d1b4434ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e432abfd35ed44a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "321ac4d7cb5b392c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "225995577fc7e6ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6aef89b781c0e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d73381343b6133",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c49d6537c62fed19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f58ad164aa03a10d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "139d387bb20bde2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d81cdc2f144b7f8a",
+  "lastOpenFiles": [
+    "README.md",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/19-08-2024.md",
+    "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md",
+    "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/21-08-2024.md",
+    "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/22-08-2024.md",
+    "Pasted image 20240824165504.png",
+    "Pasted image 20240824165450.png",
+    "Pasted image 20240824165438.png",
+    "Pasted image 20240824165422.png",
+    "Pasted image 20240824165404.png",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/21-08-2024.md",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/20-08-2024.md",
+    "Pasted image 20240824164255.png",
+    "Pasted image 20240824164148.png",
+    "Pasted image 20240824164119.png",
+    "Pasted image 20240824164105.png",
+    "Pasted image 20240824164024.png",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/Sin título.md",
+    "Arquitectura _de_Computadoras/Unidad_1/Sin nombre",
+    "Arquitectura _de_Computadoras/Sin nombre",
+    "Bienvenido.md",
+    "cree un enlace.md",
+    "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto",
+    "Arquitectura _de_Computadoras/Unidad_1",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto",
+    "Telecomunicaciones/Unidad_1",
+    "Arquitectura _de_Computadoras",
+    "Telecomunicaciones"
+  ]
+}
