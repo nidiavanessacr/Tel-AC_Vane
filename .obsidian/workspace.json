@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d81cdc2f144b7f8a",
+            "id": "4f42788fe006a670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
+                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
+                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
+                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md"
+                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md"
               }
             }
           }
@@ -146,28 +146,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d81cdc2f144b7f8a",
+  "active": "4f42788fe006a670",
   "lastOpenFiles": [
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/20-08-2024.md",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/21-08-2024.md",
+    "Telecomunicaciones/Unidad_1/26-30_Agosto/27-08-2024.md",
+    "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/19-08-2024.md",
+    "Telecomunicaciones/Unidad_1/Repaso",
+    "Telecomunicaciones/Unidad_1/26-30_Agosto/Repaso/Repaso.md",
+    "Telecomunicaciones/Unidad_1/26-30_Agosto/Repaso",
+    "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
     "Pasted image 20240831192559.png",
     "Pasted image 20240831192549.png",
-    "Telecomunicaciones/Unidad_1/26-30_Agosto/27-08-2024.md",
     "Pasted image 20240831192512.png",
     "Pasted image 20240831192503.png",
     "Pasted image 20240831192442.png",
     "Pasted image 20240831192432.png",
     "Pasted image 20240831192427.png",
     "Pasted image 20240831192348.png",
-    "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
     "Bienvenido.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/21-08-2024.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/20-08-2024.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/19-08-2024.md",
     "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/22-08-2024.md",
     "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/21-08-2024.md",
     "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md",
     "Pasted image 20240824164105.png",
     "Pasted image 20240824164148.png",
-    "Pasted image 20240824165438.png",
     "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto",
     "Telecomunicaciones/Unidad_1/26-30_Agosto",
     "README.md",
@@ -178,7 +181,6 @@
     "Arquitectura _de_Computadoras/Unidad_1",
     "Telecomunicaciones/Unidad_1/19-23_Agosto",
     "Telecomunicaciones/Unidad_1",
-    "Arquitectura _de_Computadoras",
-    "Telecomunicaciones"
+    "Arquitectura _de_Computadoras"
   ]
 }
