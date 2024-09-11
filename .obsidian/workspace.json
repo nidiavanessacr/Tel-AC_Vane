@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f42788fe006a670",
+            "id": "ac36733e334a3827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
+                "file": "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/20-08-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7323a1fc66470cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7576d96e06ed6d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f3f109a0fe571c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVCR_Telecomunicaciones/NVCR_U1/Repaso/Repaso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicaciones/Unidad_1/Repaso/Repaso.md"
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md"
               }
             }
           }
@@ -146,8 +183,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4f42788fe006a670",
+  "active": "7576d96e06ed6d3e",
   "lastOpenFiles": [
+    "Pasted image 20240824165438.png",
+    "Pasted image 20240824165450.png",
+    "Pasted image 20240824165422.png",
+    "Pasted image 20240824165404.png",
+    "Pasted image 20240824164255.png",
+    "Pasted image 20240824164148.png",
+    "Pasted image 20240824164119.png",
+    "Pasted image 20240824164105.png",
+    "Pasted image 20240824164024.png",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/09-13_Septiembre/09-09-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2",
+    "NVCR_Telecomunicaciones/NVCR_U1/Repaso/Repaso.md",
+    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/04-06_Septiembre/05-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/09-13_Septiembre",
+    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/20-08-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/04-06_Septiembre",
+    "NVCR_Telecomunicaciones/NVCR_U1/26-30_Agosto/27-08-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2",
+    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/19-08-2024.md",
     "Telecomunicaciones/Unidad_1/19-23_Agosto/20-08-2024.md",
     "Telecomunicaciones/Unidad_1/19-23_Agosto/21-08-2024.md",
     "Telecomunicaciones/Unidad_1/26-30_Agosto/27-08-2024.md",
@@ -159,28 +218,15 @@
     "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
     "Pasted image 20240831192559.png",
     "Pasted image 20240831192549.png",
-    "Pasted image 20240831192512.png",
-    "Pasted image 20240831192503.png",
-    "Pasted image 20240831192442.png",
-    "Pasted image 20240831192432.png",
-    "Pasted image 20240831192427.png",
-    "Pasted image 20240831192348.png",
     "Bienvenido.md",
     "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/22-08-2024.md",
     "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/21-08-2024.md",
     "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto/19-08-24.md",
-    "Pasted image 20240824164105.png",
-    "Pasted image 20240824164148.png",
     "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto",
     "Telecomunicaciones/Unidad_1/26-30_Agosto",
     "README.md",
     "Telecomunicaciones/Unidad_1/19-23_Agosto/Sin título.md",
     "Arquitectura _de_Computadoras/Sin nombre",
-    "cree un enlace.md",
-    "Arquitectura _de_Computadoras/Unidad_1/19-22_Agosto",
-    "Arquitectura _de_Computadoras/Unidad_1",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto",
-    "Telecomunicaciones/Unidad_1",
-    "Arquitectura _de_Computadoras"
+    "cree un enlace.md"
   ]
 }
