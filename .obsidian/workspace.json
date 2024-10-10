@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac36733e334a3827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/20-08-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7323a1fc66470cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7576d96e06ed6d3e",
+            "id": "5f3f109a0fe571c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f3f109a0fe571c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVCR_Telecomunicaciones/NVCR_U1/Repaso/Repaso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,19 +146,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7576d96e06ed6d3e",
+  "active": "5f3f109a0fe571c0",
   "lastOpenFiles": [
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/10-10-2024.md",
+    "Pasted image 20241010075614.png",
+    "Pasted image 20241010074930.png",
+    "Pasted image 20241010074816.png",
+    "Pasted image 20241010073556.png",
+    "Pasted image 20241010073131.png",
+    "NVCR_Telecomunicaciones/NVCR_U1/Repaso/Repaso.md",
+    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/20-08-2024.md",
+    "Sin título.canvas",
+    "NVCR_Telecomunicaciones/NVCR_U2/07-10_Octubre/09-10-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/Sin nombre/Sin nombre",
+    "NVCR_Telecomunicaciones/NVCR_U2/07-10_Octubre",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/xd.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/24-27_Septiembre/26-09-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
+    "Pasted image 20241010071953.png",
+    "Pasted image 20241010071922.png",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/09-10-24.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/04-05_Septiembre/05-09-2024.md",
     "Pasted image 20241009205944.png",
     "Pasted image 20241009205813.png",
     "Pasted image 20241009205738.png",
-    "Pasted image 20241009205725.png",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/09-10-24.md",
-    "Pasted image 20241009204323.png",
-    "Pasted image 20241009204306.png",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/24-27_Septiembre/26-09-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/mso94B1.tmp",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION_PROCESADORES.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/mso6E7F.tmp",
@@ -203,33 +180,19 @@
     "NVCR_Arquitectura _de_Computadoras/NVCR_U3/NVCR_AC_U3_LINPACK.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U3/NVCR_AC_U3_LINPAK.pdf",
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/12-09-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_AC_U2_Diferencias_AMFM.pdf",
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/10-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/09-09-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U2/04-05_Septiembre/05-09-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_LECTURAA.pdf",
     "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/refracción.md",
     "NVCR_Telecomunicaciones/NVCR_U3/24-26_Septiembre/24-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19_Septiembre/18-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19-2024/18-09-2024.md",
-    "Pasted image 20240913235057.png",
-    "Pasted image 20240913235036.png",
-    "Pasted image 20240913235020.png",
-    "Pasted image 20240913235009.png",
-    "Pasted image 20240913233841.png",
-    "NVCR_Telecomunicaciones/NVCR_U1/Repaso/Repaso.md",
-    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/20-08-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U1/26-30_Agosto/27-08-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/19-08-2024.md",
     "Telecomunicaciones/Unidad_1/19-23_Agosto/20-08-2024.md",
     "Telecomunicaciones/Unidad_1/19-23_Agosto/21-08-2024.md",
     "Telecomunicaciones/Unidad_1/26-30_Agosto/27-08-2024.md",
     "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/19-08-2024.md",
-    "Telecomunicaciones/Unidad_1/26-30_Agosto/Repaso/Repaso.md",
-    "Arquitectura _de_Computadoras/Unidad_1/26-29_Agosto/27-08-2024.md",
-    "Bienvenido.md"
+    "Telecomunicaciones/Unidad_1/19-23_Agosto/19-08-2024.md"
   ]
 }
