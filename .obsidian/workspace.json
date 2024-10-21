@@ -11,11 +11,9 @@
             "id": "5f3f109a0fe571c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md"
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf"
               }
             }
           }
@@ -148,11 +146,12 @@
   },
   "active": "5f3f109a0fe571c0",
   "lastOpenFiles": [
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LITTLEMAN.pdf",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/24-27_Septiembre/26-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
     "NVCR_Telecomunicaciones/NVCR_U2/04-05_Septiembre/05-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/09-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/10-09-2024.md",
@@ -184,7 +183,6 @@
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION_PROCESADORES.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/mso6E7F.tmp",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U3_LINPACK.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/NVCR_AC_U3_LINPACK.pdf",
     "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/refracción.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19-2024/18-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U1/26-30_Agosto/27-08-2024.md",
