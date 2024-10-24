@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "67163edf2bbe57e2",
+        "id": "5bf18bd922bd6597",
         "type": "tabs",
         "children": [
           {
-            "id": "5f3f109a0fe571c0",
+            "id": "0d153c1d4428c585",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf"
-              }
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NVCR_AC_U2_DEFINICION"
             }
           }
         ]
@@ -37,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -52,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -60,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -91,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de NVCR_AC_U2_LINPACK"
             }
           },
           {
@@ -103,7 +113,9 @@
                 "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de NVCR_AC_U2_LINPACK"
             }
           },
           {
@@ -114,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -124,7 +138,9 @@
               "type": "outline",
               "state": {
                 "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de NVCR_AC_U2_LINPACK"
             }
           }
         ]
@@ -144,12 +160,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5f3f109a0fe571c0",
+  "active": "0d153c1d4428c585",
   "lastOpenFiles": [
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LITTLEMAN.pdf",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION_PROCESADORES.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LITTLEMAN.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/24-27_Septiembre/26-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/10-10-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/09-10-24.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_LECTURAA.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_Lectura.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_INVESTIGACION.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_Investigacion.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U3/NVCR_T_U3_DOCUMENTO_UNIDAD.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U3/24-26_Septiembre/24-09-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/04-05_Septiembre/05-09-2024.md",
@@ -158,10 +184,6 @@
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/12-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19_Septiembre/18-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/09-10-24.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/10-10-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/24-26_Septiembre/24-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/xd.md",
     "Pasted image 20241010075614.png",
     "Pasted image 20241010074930.png",
@@ -173,16 +195,11 @@
     "Sin título.canvas",
     "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/Sin nombre/Sin nombre",
-    "NVCR_Telecomunicaciones/NVCR_U2/07-10_Octubre",
     "Pasted image 20241010071953.png",
     "Pasted image 20241010071922.png",
     "Pasted image 20241009205944.png",
     "Pasted image 20241009205813.png",
     "Pasted image 20241009205738.png",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/mso94B1.tmp",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION_PROCESADORES.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/mso6E7F.tmp",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U3_LINPACK.pdf",
     "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/refracción.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19-2024/18-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U1/26-30_Agosto/27-08-2024.md",
