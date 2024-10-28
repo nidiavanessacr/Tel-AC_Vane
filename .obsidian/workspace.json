@@ -11,12 +11,14 @@
             "id": "0d153c1d4428c585",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf"
+                "file": "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2021_1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NVCR_AC_U2_DEFINICION"
+              "icon": "lucide-file",
+              "title": "28-10-2021_1"
             }
           }
         ]
@@ -162,6 +164,27 @@
   },
   "active": "0d153c1d4428c585",
   "lastOpenFiles": [
+    "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/28-10-2024_1.md",
+    "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/28-10-24.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2021_1.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre",
+    "antenas.jpg",
+    "NVCR_Telecomunicaciones/NVCR_U4/25_Octubre/25-10-2024.md",
+    "Pasted image 20241028080309.png",
+    "Pasted image 20241028075959.png",
+    "antenas.drawio.png",
+    "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre",
+    "Pasted image 20241009205738.png",
+    "Pasted image 20240913233841.png",
+    "Pasted image 20240912075105.png",
+    "Pasted image 20240824165450.png",
+    "Pasted image 20240824164148.png",
+    "Pasted image 20240824164105.png",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U1/19-22_Agosto/19-08-24.md",
+    "NVCR_Telecomunicaciones/NVCR_U4/25_Octubre",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U4",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION_PROCESADORES.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LINPACK.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_LITTLEMAN.pdf",
@@ -171,11 +194,7 @@
     "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_LECTURAA.pdf",
     "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_Lectura.pdf",
-    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_INVESTIGACION.pdf",
-    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_Investigacion.pdf",
-    "NVCR_Telecomunicaciones/NVCR_U3/NVCR_T_U3_DOCUMENTO_UNIDAD.pdf",
     "NVCR_Telecomunicaciones/NVCR_U3/24-26_Septiembre/24-09-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/04-05_Septiembre/05-09-2024.md",
@@ -183,31 +202,14 @@
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/10-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/12-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19_Septiembre/18-09-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U2/xd.md",
-    "Pasted image 20241010075614.png",
-    "Pasted image 20241010074930.png",
-    "Pasted image 20241010074816.png",
-    "Pasted image 20241010073556.png",
-    "Pasted image 20241010073131.png",
     "NVCR_Telecomunicaciones/NVCR_U1/Repaso/Repaso.md",
     "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/20-08-2024.md",
     "Sin título.canvas",
     "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/21-08-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U2/Sin nombre/Sin nombre",
-    "Pasted image 20241010071953.png",
-    "Pasted image 20241010071922.png",
-    "Pasted image 20241009205944.png",
-    "Pasted image 20241009205813.png",
-    "Pasted image 20241009205738.png",
     "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/refracción.md",
     "NVCR_Telecomunicaciones/NVCR_U2/18-19-2024/18-09-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U1/26-30_Agosto/27-08-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/19-08-2024.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/20-08-2024.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/21-08-2024.md",
-    "Telecomunicaciones/Unidad_1/26-30_Agosto/27-08-2024.md",
-    "Telecomunicaciones/Unidad_1/Repaso/Repaso.md",
-    "Telecomunicaciones/Unidad_1/19-23_Agosto/19-08-2024.md"
+    "NVCR_Telecomunicaciones/NVCR_U1/19-23_Agosto/19-08-2024.md"
   ]
 }
