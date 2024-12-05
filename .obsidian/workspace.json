@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVCR_Telecomunicaciones/NVCR_U4/06-08-Noviembre/06-11-2024.md",
+                "file": "NVCR_Telecomunicaciones/NVCR_U6/Satelites/Satélites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-11-2024"
+              "title": "Satélites"
             }
           },
           {
@@ -53,18 +53,15 @@
             "id": "0c56845e349a5f9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/29-10-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_INVESTIGACION.pdf"
               },
-              "icon": "lucide-file",
-              "title": "29-10-2024"
+              "icon": "lucide-file-text",
+              "title": "NVCR_T_U2_INVESTIGACION"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,54 +202,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0c56845e349a5f9b",
+  "active": "0d153c1d4428c585",
   "lastOpenFiles": [
+    "NVCR_Telecomunicaciones/NVCR_U5/NVCR_AMS_T_SERVIDOR.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U6/Satelites/Satélites.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_Servidor/~$NVCR_AMS_T_SERVIDOR.tmp",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2021_1.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/12-11-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/13-11-14.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/12-11-2024_01.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/11-11-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/08-11-24.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/07-11-2024.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/06-11-2024_1.md",
+    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/06-11-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/NVCR_T_U2_INVESTIGACION.pdf",
+    "NVCR_Telecomunicaciones/NVCR_U6/Satelites",
+    "NVCR_Telecomunicaciones/NVCR_U6/Nueva carpeta",
+    "NVCR_Telecomunicaciones/NVCR_U6",
+    "NVCR_Telecomunicaciones/Nueva carpeta",
+    "NVCR_Telecomunicaciones/NVCR_U5",
+    "NVCR_Telecomunicaciones/NVCR_Servidor/NVCR_AMS_T_SERVIDOR.docx",
+    "NVCR_Telecomunicaciones/NVCR_Servidor",
+    "NVCR_Telecomunicaciones/NVCR_U4/06-08-Noviembre/06-11-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/18-19_Septiembre/18-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/12-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/10-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/09-12_Septiembre/09-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U2/04-05_Septiembre/05-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/24-26_Septiembre/24-09-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/10-10-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/09-10-24.md",
+    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
+    "NVCR_Telecomunicaciones/NVCR_U4/25-29-Noviembre/26-11-24.md",
+    "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/29-10-2024.md",
     "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/28-10-2024_1.md",
     "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/28-10-24.md",
-    "NVCR_Telecomunicaciones/NVCR_U4/25_Octubre/25-10-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U4/11-14-Noviembre/12-11-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U4/06-08-Noviembre/06-11-2024.md",
     "Pasted image 20241121125645.png",
     "Pasted image 20241121125559.png",
     "Pasted image 20241121125413.png",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/06-11-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/06-11-2024_1.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/07-11-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/08-11-24.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/11-11-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/12-11-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/12-11-2024_01.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre/13-11-14.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2021_1.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/28-31-Octubre/28-10-2024.md",
     "NVCR_Arquitectura _de_Computadoras/NVCR_U3/Sin título.canvas",
     "Pasted image 20241121120247.png",
     "Pasted image 20241121115802.png",
     "Sin título.canvas",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre/Sin nombre",
-    "NVCR_Telecomunicaciones/NVCR_U4/NVCR_T_U4_REDES.kmz",
-    "NVCR_Telecomunicaciones/NVCR_U4/NVCR_T_U4_COTIZACION.pdf",
     "Pasted image 20241114074409.png",
     "Pasted image 20241113081620.png",
     "Pasted image 20241112083211.png",
     "Pasted image 20241112081713.png",
-    "Pasted image 20241112081358.png",
-    "NVCR_Telecomunicaciones/NVCR_U4/11-14-Noviembre",
-    "README.md",
-    "NVCR_Telecomunicaciones/NVCR_U4/28-01-Noviembre/29-10-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/11-14-Noviembre",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U1/19-22_Agosto/19-08-24.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/09-13_Septiembre/09-09-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/24-27_Septiembre/26-09-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/07-10_Septiembre/09-10-2024.md",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_EXAMEN.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DOCUMENTO_UNIDAD.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION_PROCESADORES.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U2/NVCR_AC_U2_DEFINICION.pdf",
-    "NVCR_Arquitectura _de_Computadoras/NVCR_U3/06-07-Noviembre",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/10-10-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/09-10-24.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/07-11_Octubre/08-40-2024.md",
-    "NVCR_Telecomunicaciones/NVCR_U3/24-26_Septiembre/24-09-2024.md"
+    "Pasted image 20241112081358.png"
   ]
 }
